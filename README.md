@@ -404,6 +404,7 @@ Role-based leave approval application for educational institutions.
 <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </p>
+<img src="https://raw.githubusercontent.com/Kunwar-Nikhil/Kunwar-Nikhil/output/github-contribution-grid-snake.svg"/>
 
 ### ✨ Features
 
