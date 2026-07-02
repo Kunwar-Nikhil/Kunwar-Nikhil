@@ -21,7 +21,6 @@
 - Firebase Authentication
 - Google Authentication (OAuth)
 - Google Maps Integration
-- Stripe Payment Gateway (under implementation/Learning)
 - REST APIs
 - NativeWind (Tailwind CSS)
 - Zustand State Management
