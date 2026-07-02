@@ -16,12 +16,12 @@
 
 📱 Passionate about building **Android** and **Cross-Platform Mobile Applications** using **React Native**.
 
-⚡ Experienced in developing modern mobile applications with:
+⚡  Developing modern mobile applications with:
 
 - Firebase Authentication
 - Google Authentication (OAuth)
 - Google Maps Integration
-- Stripe Payment Gateway
+- Stripe Payment Gateway (under implementation/Learning)
 - REST APIs
 - NativeWind (Tailwind CSS)
 - Zustand State Management
@@ -216,7 +216,7 @@ Build secure, scalable and production-ready applications while continuously impr
 
 ## 🚖 Hiraki Taxi
 
-Production-ready cross-platform ride booking mobile application inspired by modern ride-hailing platforms.
+A modern **Ride Booking Mobile Application** built with **React Native CLI** that demonstrates real-world mobile development concepts including **Firebase Authentication**, **Google Maps**, **Firestore**, **Geolocation**, and **State Management with Zustand**
 
 ### ✨ Key Features
 
@@ -225,7 +225,7 @@ Production-ready cross-platform ride booking mobile application inspired by mode
 - 🗺️ Google Maps Integration
 - 🔎 Google Places Autocomplete
 - 🚖 Ride Booking Workflow
-- 💳 Stripe Payment Gateway
+- 💳 Stripe Payment Gateway(under Implementation)
 - 📜 Ride History
 - 👤 User Profile Management
 - ⚡ Zustand State Management
@@ -282,7 +282,7 @@ Role-based leave approval application designed for educational institutions.
 
 <div align="center">
 
-🥇 **1st Position** — Internal Hackathon during NIT Delhi Hackathon
+🥇 **1st Position** — National Hackathon during NIT Delhi Hackathon
 
 🎖️ **Core Team Member** — Microsoft Learn Student Ambassadors (MLSA)
 
