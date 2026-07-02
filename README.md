@@ -281,7 +281,7 @@ Role-based leave approval application designed for educational institutions.
 
 <div align="center">
 
-🥇 **1st Position** — National Hackathon during NIT Delhi Hackathon
+🥇 **1st Position** — National Hackathon during NIT Delhi Hackathon (CodeSlayer 2K25)
 
 🎖️ **Core Team Member** — Microsoft Learn Student Ambassadors (MLSA)
 
