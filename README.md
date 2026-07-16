@@ -285,7 +285,7 @@ Role-based leave approval application designed for educational institutions.
 
 🎖️ **Core Team Member** — Microsoft Learn Student Ambassadors (MLSA)
 
-🎤 Organized multiple Technical & Non-Technical Events at Gautam Buddha University
+🎤 Organized multiple Technical at Microsoft Office Gurgaon
 
 </div>
 
